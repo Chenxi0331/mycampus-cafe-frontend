@@ -1,7 +1,7 @@
 
 const API_CONFIG = {
     // BASE_URL: "http://localhost/utm/wt/mycampus-cafe-slim-api/public/api",
-    BASE_URL: "http://chenxxxxx.gt.tc/api"
+    BASE_URL: "https://api.allorigins.win/raw?url=http://chenxxxxx.gt.tc/api"
 };
 
 function getToken() {
