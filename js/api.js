@@ -1,6 +1,6 @@
 
 const API_CONFIG = {
-    BASE_URL: "http://localhost/utm/wt/mycampus-cafe-slim-api/public/api",
+    // BASE_URL: "http://localhost/utm/wt/mycampus-cafe-slim-api/public/api",
     BASE_URL: "http://chenxxxxx.gt.tc/api"
 };
 
